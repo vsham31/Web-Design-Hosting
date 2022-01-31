@@ -1,0 +1,22 @@
+
+
+
+
+.banner-image {
+	 padding-top: 75px;      padding-bottom: 50px;  text-align: center;     color: #f8f8f8;      background: url("file:///C:/Users/Shivendra%20Singh/Desktop/creations/pics/20200114_195845.png") no-repeat center center;     background-size: cover; 
+}
+.crslll {
+	padding-top: 57px;      padding-bottom: 50px;
+}
+
+#upscrl {
+	bottom: 0px; right: 0px; padding-bottom: 20px; padding-right: 20px; position: fixed; z-index: 99;
+}
+
+footer {
+	padding-top: 15 px;     background-color: #101010;      color:#9d9d9d;     bottom: 0;     width: 100%; left:0; position:absolute; overflow: hidden;
+}
+
+html {
+	position: relative; min-height: 100%;
+}
